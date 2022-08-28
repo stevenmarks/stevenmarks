@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stevenmarks
-- 👀 I’m interested in water, Python, Jupyter, Arduino, Processing, vegetable gardens, fermenting food and drinks and growing mushrooms.
+- 👀 I’m interested in water, Python, Jupyter, Arduino, Processing, vegetable gardens, fermenting food and drinks, and growing mushrooms.
 - 🌱 I’m currently learning how to use Python and Jupyter to better plan, design, assess and provide advice on water, wastewater and recycled water treatment and management systems.
 - 💞️ I’m looking to collaborate on process modelling, data visualisation and physical computing
 - 📫 Email the addess in my profile.
